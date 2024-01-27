@@ -1,4 +1,4 @@
-export default function Docs({ params}: {
+export default function Docs({ params }: {
     params:{
         slug: string[];
     }
